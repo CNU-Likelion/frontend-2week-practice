@@ -6,10 +6,9 @@
 - 두 요구 사항을 만족해야한다.
 
 ## 🧑‍💻 요구 사항
-- 프로그래머스의 **[코딩테스트 입문](https://school.programmers.co.kr/learn/challenges/beginner?order=acceptance_desc&languages=javascript)** 를 수행한다.
-- 문제 목록 **[문제 목록](https://www.notion.so/1-5f911305b2f74fa89b78fafc6cc350e3?pvs=4)** 의 목록을 풀어야 한다
+https://github.com/CNU-Likelion/frontend-2week-homework/assets/67012995/81438e86-792c-4d8a-a22e-94b87ce40fff
 - 해결한 문제는 `pages` 폴더 안에 `문제이름.js` 형식으로 저장한다.
-- 1주차 과제는 **3월 10일 자정**까지 제출한다.
+- 1주차 과제는 **3월 17일 자정**까지 제출한다.
 - 미션은 무조건 기한 내에 완료하지 못하더라도 제출해야한다.
 
 ## 🚀 과제 진행 요구 사항
